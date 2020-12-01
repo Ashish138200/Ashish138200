@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on AWS
 - 🌱 I’m currently learning Web Development and AWS
 - 💬 Ask me about programming, cloud and networking.
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/ashish-chaurasia-683630175) and  Email: ashish1382000@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashish-chaurasia-683630175) and  Email: ashish1382000@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a>
