@@ -5,8 +5,7 @@
 - 👯 I’m looking to collaborate on 
 - 💬 Ask me about programming, cloud and networking.
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/ashish-chaurasia-683630175) and  Email: ashish1382000@gmail.com
-- ⚡ Fun fact: 
-<br>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
