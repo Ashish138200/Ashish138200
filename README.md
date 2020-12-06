@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on AWS
 - 🌱 I’m currently learning Web Development and AWS
-- 💬 Ask me about programming, cloud and networking.
+- 💬 Ask me about programming, AWS and Web Development.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashish-chaurasia-683630175) and  Email: ashish1382000@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
