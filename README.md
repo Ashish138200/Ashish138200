@@ -7,7 +7,7 @@
 <br>
 <h3> Checkout my portfolio:</h3>
 <br>
-<a href="https://ashish138200.github.io/Portfolio/" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1WGPIARi5pHk8w-0pAtpYECpDNmzS4Qxj"></a>
+<a href="https://www.avidashsolutions.com/" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1WGPIARi5pHk8w-0pAtpYECpDNmzS4Qxj"></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a>
